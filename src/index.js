@@ -1,7 +1,7 @@
-import { StrictMode } from "react";
+import React, { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import WeatherSearch from "./WeatherSearch";
-
+import reportWebVitals from "./reportWebVitals";
 import "./App.css";
 
 const rootElement = document.getElementById("root");
