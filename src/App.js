@@ -9,6 +9,10 @@ function App() {
       <header className="App-header">
       <h1>
 Hello Worldddd
+  
+<div>
+     <a href="https://github.com/KrissieSurf/my-app">Coded by Krissie</a>
+    </div>
 
 <Weather />
 
