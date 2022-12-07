@@ -12,6 +12,9 @@ root.render(
     <div className="App">
       <h1>Weather App</h1>
       <WeatherSearch />
+      <div>
+     <a href="https://github.com/KrissieSurf/my-app">Coded by Krissie</a>
+    </div>
     </div>
   </StrictMode>
 );
