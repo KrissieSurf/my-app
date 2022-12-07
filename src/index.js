@@ -12,12 +12,6 @@ root.render(
     <div className="App">
       <h1>Weather App</h1>
       <WeatherSearch />
-      function App() {
-  const [state,setState]=useState(false);
-  let url="https://github.com/KrissieSurf/my-app";
-  return (
-    <div className="App">
-     <a href={url}>Coded by Krissie</a>
     </div>
   </StrictMode>
 );
